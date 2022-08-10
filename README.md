@@ -16,3 +16,6 @@ URL do curso -> [Arquitetura CSS - Descomplicando os Problemas](https://cursos.a
 * [Visual Studio Code](https://code.visualstudio.com/Download) - *IDE* recomendada para a aprendizagem de **HTML** e **CSS**.
 
 ## 01 - Layout base e Estilização de Cabeçalho &#x1F516;
+* Utilizar seletores CSS mais simples.
+* Organizar a estruturar os arquivos css do projeto.
+* Metodologia Atomic Design.
