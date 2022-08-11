@@ -23,3 +23,8 @@ URL do curso -> [Arquitetura CSS - Descomplicando os Problemas](https://cursos.a
 ## 02 - Estilização de Banner e Sobre &#x1F516;
 * Padrão para nomear as classes de CSS.
 * Metodologia BEM.
+
+## 03 - Estilização das Receitas &#x1F516;
+* Organização e estrutura de arquivos .css.
+* Separação de responsabilidades.
+* a criar e manter arquivos menores.
