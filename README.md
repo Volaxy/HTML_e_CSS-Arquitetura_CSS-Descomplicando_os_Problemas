@@ -27,4 +27,9 @@ URL do curso -> [Arquitetura CSS - Descomplicando os Problemas](https://cursos.a
 ## 03 - Estilização das Receitas &#x1F516;
 * Organização e estrutura de arquivos .css.
 * Separação de responsabilidades.
-* a criar e manter arquivos menores.
+* Criar e manter arquivos menores.
+
+## 04 - Estilização do Quem Somos &#x1F516;
+* Imagens ilustrativas devem estar referenciadas em nossos arquivos .css.
+* Boas práticas com importação de imagens.
+* Manter as estilizações nos arquivos de estilo.
