@@ -33,3 +33,7 @@ URL do curso -> [Arquitetura CSS - Descomplicando os Problemas](https://cursos.a
 * Imagens ilustrativas devem estar referenciadas em nossos arquivos .css.
 * Boas práticas com importação de imagens.
 * Manter as estilizações nos arquivos de estilo.
+
+## 05 - Estilização do Rodapé e Responsividade do Site &#x1F516;
+* Tornar um site responsivo.
+* Como configurar a adaptação do site a diferentes tamanhos de tela.
